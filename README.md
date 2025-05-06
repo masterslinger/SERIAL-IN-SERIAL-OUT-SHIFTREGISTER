@@ -57,9 +57,9 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **PROGRAM**
 
-Developed by:Pugazhenthi S
+Developed by: Syed Abu Hanifa. L
 
-RegisterNumber:212224240120
+RegisterNumber: 212224040346
 
 
 ```
